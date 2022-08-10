@@ -19,6 +19,5 @@
   <a href="https://www.linkedin.com/in/pedro-ygor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-  
-   <a href ="https://wakatime.com/share/@faaaf701-e53f-4345-a282-4484848d0907/fec73358-f4a5-4772-bb61-c029e48d0f3c.svg"><img src="https://wakatime.com/share/@faaaf701-e53f-4345-a282-4484848d0907/fec73358-f4a5-4772-bb61-c029e48d0f3c.svg" target="_blank"></a>
+ 
 
