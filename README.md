@@ -12,11 +12,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | Java | TypeScript 
+- 💻 &nbsp; C | Java | TypeScript
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Redux | Context API | Hooks
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Visual Studio Code | Eclipse | Git
-- :tools: Jest | React Testing Library
+- 🔎  Jest | React Testing Library
 
 <br>
 
@@ -24,8 +24,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroygor&layout=compact&text_color=daf7dc&bg_color=151515)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroygor&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 <h3> 🤝🏻 Contato</h3>
 
