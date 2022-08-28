@@ -31,7 +31,7 @@
 
 <h3> 🤝🏻 Contato</h3>
 
-<p align="center">
+<p>
 &nbsp; <a href="https://www.linkedin.com/in/pedro-ygor/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:pedroygorlo888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
