@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
 - 🔭 &nbsp; Atualmente estou aprendendo Desenvolvimento Web em React
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software, como React com TypeScript
+- ✍️  &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software, como React com TypeScript
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas
 - 💼 &nbsp; Desenvolvedor front-end
-- ✍️ &nbsp;Lendo One Piece e Tower Of God e jogando PES nos finais de semana.
+- 🤓 &nbsp; Lendo One Piece e Tower Of God e jogando PES nos finais de semana.
 - ☕ &nbsp; Acredito que uma boa playlist de música pode ser a solução para a maior parte do estresse.
 
 <h3>🛠 Tecnologias</h3>
