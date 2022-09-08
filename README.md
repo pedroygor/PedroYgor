@@ -10,7 +10,8 @@
 - 🤓 &nbsp; Lendo One Piece e Tower Of God e jogando PES nos finais de semana.
 - ☕ &nbsp; Acredito que uma boa playlist de música pode ser a solução para a maior parte do estresse.
 
-<h3>🛠 Tecnologias</h3>
+<div>
+  <h3>🛠 Tecnologias</h3>
 
 - 💻 &nbsp; C | Java | TypeScript
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Redux | Context API | Hooks
@@ -18,14 +19,16 @@
 - 🔧 &nbsp; Visual Studio Code | Eclipse | Git
 - 🔎  Jest | React Testing Library
 
+</div>
+
 <!-- <br> -->
 <div align="center">
 
-<a href="https://github.com/pedroygor" />
+  <a href="https://github.com/pedroygor" />
 
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=pedroygor&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=pedroygor&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroygor&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=6"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroygor&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=4"/>
 
 </div>
 
