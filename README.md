@@ -70,14 +70,14 @@ and also a web development course at **Trybe** <br>
 
 ## :file_folder: Projects
 
-#### :computer: Front End
+### :computer: Front End
 
 | Todo List    | Wallet | Trivia | Timer |
 | ------------- |-------------| ----------| -------- |
 | [Repositório](https://github.com/pedroygor/desafio-01-ignite-todo-list) - [Demo](https://pedroygor-todo.netlify.app/)  | [Repositório](https://github.com/pedroygor/trybe-wallet) - [Demo](https://pedroygor-trybe-wallet.netlify.app/) | [Repositório](https://github.com/pedroygor/trivia-project) - [Demo](https://pedroygor-trivia.netlify.app/) | [Repositório](https://github.com/pedroygor/Timer) - [Demo](https://pedro-ygor-timer.netlify.app/) |
 |![Todo](./imgs/todo.png) |![Wallet](./imgs/wallet.png) |![Trivia](./imgs/trivia.png) |![Timer](./imgs/timer.png) |
 
-#### :wrench: Back End
+### :wrench: Back End
 
 | TFC        | Blogs API           | Store Manager  | CRUD de Clientes |
 | ------------- |:-------------:| ----- | ---- |
