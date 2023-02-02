@@ -70,6 +70,8 @@ and also a web development course at **Trybe** <br>
 
 ## :file_folder: Projects
 
+#### :computer: Front End
+
 <table>
   <tr>
     <td valign="top">
@@ -130,3 +132,9 @@ and also a web development course at **Trybe** <br>
     </td>
   </tr>
 </table>
+
+#### Back End
+
+| TFC        | Blogs API           | Store Manager  | CRUD de Clientes |
+| ------------- |:-------------:| -----:| ----: |
+| [Repositório](https://github.com/pedroygor/trybe-futebol-clube)      | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/store-manager) | [Repositório](https://github.com/pedroygor/backend-sharenergy)|
