@@ -3,13 +3,11 @@
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pedroygor-portfolio.netlify.app/)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ygor/)
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroygorlo888@gmail.com)
- 
-
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** <br>
-✔ I am currently studying at **Unicesumar**, Systems Analysis and Development, 
+✔ I am currently studying at **Unicesumar**, Systems Analysis and Development,
 and also a web development course at **Trybe** <br>
 ✔ I'm currently learning **ReactJS** and **NodeJS**<br>
 ✔ I'm looking to collaborate on any **Open Source Contribution**<br>
@@ -69,3 +67,65 @@ and also a web development course at **Trybe** <br>
 </p>
 
 </br>
+
+<h3 align="left">Projects</h3>
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="left">Todo List</h3>
+      <p>
+        <a href="https://github.com/pedroygor/desafio-01-ignite-todo-list">Repo</a> -
+        <a href="https://pedroygor-todo.netlify.app/">Demo</a>
+      </p>
+      <a href="https://pedroygor-todo.netlify.app/"
+        ><img
+          width="300px"
+          height="120px"
+          src="./imgs/todo.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">Wallet</h3>
+      <p>
+        <a href="https://pedroygor-trybe-wallet.netlify.app/">Repo</a> -
+        <a href="https://github.com/pedroygor/trybe-wallet">Demo</a>
+      </p>
+      <a href="https://pedroygor-trybe-wallet.netlify.app/"
+        ><img
+          width="250px"
+          height="120px"
+          src="./imgs/wallet.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">Trivia</h3>
+      <p>
+        <a href="https://pedroygor-trivia.netlify.app/">Demo</a> -
+        <a href="https://github.com/pedroygor/trivia-project">Repo</a>
+      </p>
+      <a href="https://pedroygor-trivia.netlify.app/"
+        ><img
+          width="300px"
+          height="120px"
+          src="./imgs/trivia.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">Timer</h3>
+      <p>
+        <a href="https://github.com/pedroygor/Timer">Repo</a> -
+        <a href="https://pedro-ygor-timer.netlify.app/">Demo</a>
+      </p>
+      <a href="https://pedro-ygor-timer.netlify.app/"
+        ><img
+          width="280px"
+          height="120px"
+          src="./imgs/timer.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+  </tr>
+</table>
