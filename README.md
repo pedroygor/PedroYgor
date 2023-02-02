@@ -17,7 +17,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** <br>
-✔ I am currently studying at **Unicesumar**, Systems Analysis and Development <br>
+✔ I am currently studying at **Unicesumar**, Systems Analysis and Development, 
+and also a web development course at **Trybe** <br>
 ✔ I'm currently learning **ReactJS** and **NodeJS**<br>
 ✔ I'm looking to collaborate on any **Open Source Contribution**<br>
 ✔ Ask me about anything, I'll be happy to help 😉<br>
