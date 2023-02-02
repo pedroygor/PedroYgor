@@ -72,68 +72,12 @@ and also a web development course at **Trybe** <br>
 
 #### :computer: Front End
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Todo List</h3>
-      <p>
-        <a href="https://github.com/pedroygor/desafio-01-ignite-todo-list">Repo</a> -
-        <a href="https://pedroygor-todo.netlify.app/">Demo</a>
-      </p>
-      <a href="https://pedroygor-todo.netlify.app/"
-        ><img
-          width="300px"
-          height="120px"
-          src="./imgs/todo.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Wallet</h3>
-      <p>
-        <a href="https://github.com/pedroygor/trybe-wallet">Repo</a> -
-        <a href="https://pedroygor-trybe-wallet.netlify.app/">Demo</a>
-      </p>
-      <a href="https://pedroygor-trybe-wallet.netlify.app/"
-        ><img
-          width="250px"
-          height="120px"
-          src="./imgs/wallet.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Trivia</h3>
-      <p>
-        <a href="https://pedroygor-trivia.netlify.app/">Demo</a> -
-        <a href="https://github.com/pedroygor/trivia-project">Repo</a>
-      </p>
-      <a href="https://pedroygor-trivia.netlify.app/"
-        ><img
-          width="300px"
-          height="120px"
-          src="./imgs/trivia.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Timer</h3>
-      <p>
-        <a href="https://github.com/pedroygor/Timer">Repo</a> -
-        <a href="https://pedro-ygor-timer.netlify.app/">Demo</a>
-      </p>
-      <a href="https://pedro-ygor-timer.netlify.app/"
-        ><img
-          width="280px"
-          height="120px"
-          src="./imgs/timer.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-</table>
+| Todo List    | Wallet | Trivia | Timer |
+| ------------- |:-------------:| ----------:| --------: |
+| [Repositório](https://github.com/pedroygor/desafio-01-ignite-todo-list) - [Demo](https://pedroygor-todo.netlify.app/)  | [Repositório](https://github.com/pedroygor/trybe-wallet) - [Demo](https://pedroygor-trybe-wallet.netlify.app/) | [Repositório](https://github.com/pedroygor/trivia-project) - [Demo](https://pedroygor-trivia.netlify.app/) | [Repositório](https://github.com/pedroygor/Timer) - [Demo](https://pedro-ygor-timer.netlify.app/) |
+|![Todo](./imgs/todo.png) |![Wallet](./imgs/wallet.png) |![Trivia](./imgs/trivia.png) |![Timer](./imgs/timer.png) |
 
-#### Back End
+#### :wrench: Back End
 
 | TFC        | Blogs API           | Store Manager  | CRUD de Clientes |
 | ------------- |:-------------:| -----:| ----: |
