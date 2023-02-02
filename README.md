@@ -68,7 +68,8 @@ and also a web development course at **Trybe** <br>
 
 </br>
 
-<h3 align="left">Projects</h3>
+## :file_folder: Projects
+
 <table>
   <tr>
     <td valign="top">
