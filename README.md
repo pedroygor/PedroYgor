@@ -88,8 +88,8 @@ and also a web development course at **Trybe** <br>
     </td>
     <td valign="top">
       <h3 align="left">Wallet</h3>
-      <p>h
-        <a href="ttps://github.com/pedroygor/trybe-wallet">Repo</a> -
+      <p>
+        <a href="https://github.com/pedroygor/trybe-wallet">Repo</a> -
         <a href="https://pedroygor-trybe-wallet.netlify.app/">Demo</a>
       </p>
       <a href="https://pedroygor-trybe-wallet.netlify.app/"
