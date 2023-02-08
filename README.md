@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, sou Pedro Ygor <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px /></h1>
-<h6 align="center"><i>Software Engineer</i></h6>
+<h6 align="center"><i>Desenvolvedor</i></h6>
 
 ---
 
