@@ -1,5 +1,7 @@
 <h1 align="center"> Olá, sou Pedro Ygor <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px /></h1>
-<p align="center">Software Enfineer</p>
+<h6 align="center"><i>Software Enfineer</i></h6>
+
+---
 
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.gitshowcase.com/pedroygor)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ygor/)
