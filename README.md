@@ -68,7 +68,7 @@ e também, Desenvolvimento Web na **Trybe** </br>
 
 </p>
 
-</;br>
+</br>
 
 ## :file_folder: Projetos
 
