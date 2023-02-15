@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, sou Pedro Ygor <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px /></h1>
-<h6 align="center"><i>Desenvolvedor</i></h6>
+<h6 align="center"><i>Software Engineer</i></h6>
 
----
 
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pedroygor-portfolio.netlify.app/)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ygor/)
@@ -9,8 +8,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;***Falando sobre coisas pessoais...***
 
-✔ Estou estudando na **Unicesumar**, Análise e Desenvolvimento de Sistemas,
-e também, Desenvolvimento Web na **Trybe** </br>
+✔ Estou estudando Desenvolvimento Web na **Trybe** </br>
 ✔ Estou aprendendo **ReactJS** e **NodeJS**</br>
 ✔ Estou procurando colaborar em qualquer **Projeto Open Source**</br>
 ✔ Pergunte-me sobre qualquer coisa, terei todo o gosto em ajudar 😉</br>
@@ -84,3 +82,4 @@ e também, Desenvolvimento Web na **Trybe** </br>
 | TFC        | Blogs API           | Store Manager  | CRUD de Clientes |
 | ------------- |:-------------:| ----- | ---- |
 | [Repositório](https://github.com/pedroygor/trybe-futebol-clube)      | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/store-manager) | [Repositório](https://github.com/pedroygor/backend-sharenergy)|
+
