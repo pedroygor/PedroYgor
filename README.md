@@ -79,7 +79,7 @@
 
 ### :wrench: Back End
 
-| TFC        | Blogs API           | Store Manager  | CRUD de Clientes |
+| TFC        | Blogs API           | Car Shop  | CRUD de Clientes |
 | ------------- |:-------------:| ----- | ---- |
-| [Repositório](https://github.com/pedroygor/trybe-futebol-clube)      | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/store-manager) | [Repositório](https://github.com/pedroygor/backend-sharenergy)|
+| [Repositório](https://github.com/pedroygor/trybe-futebol-clube)      | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/car-shop) | [Repositório](https://github.com/pedroygor/backend-sharenergy)|
 
