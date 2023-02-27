@@ -72,10 +72,10 @@
 
 ### :computer: Front End
 
-| Todo List    | Wallet | Trivia | Timer |
+| Todo List    | Wallet | Trivia | Coffee Delivery |
 | ------------- |-------------| ----------| -------- |
-| [Repositório](https://github.com/pedroygor/desafio-01-ignite-todo-list) - [Demo](https://pedroygor-todo.netlify.app/)  | [Repositório](https://github.com/pedroygor/trybe-wallet) - [Demo](https://pedroygor-trybe-wallet.netlify.app/) | [Repositório](https://github.com/pedroygor/trivia-project) - [Demo](https://pedroygor-trivia.netlify.app/) | [Repositório](https://github.com/pedroygor/Timer) - [Demo](https://pedro-ygor-timer.netlify.app/) |
-|![Todo](./imgs/todo.png) |![Wallet](./imgs/wallet.png) |![Trivia](./imgs/trivia.png) |![Timer](./imgs/timer.png) |
+| [Repositório](https://github.com/pedroygor/desafio-01-ignite-todo-list) - [Demo](https://pedroygor-todo.netlify.app/)  | [Repositório](https://github.com/pedroygor/trybe-wallet) - [Demo](https://pedroygor-trybe-wallet.netlify.app/) | [Repositório](https://github.com/pedroygor/trivia-project) - [Demo](https://pedroygor-trivia.netlify.app/) | [Repositório](https://github.com/pedroygor/coffee-delivery) - [Demo](https://pedroygor-coffee-delivery.netlify.app/) |
+|![Todo](./imgs/todo.png) |![Wallet](./imgs/wallet.png) |![Trivia](./imgs/trivia.png) |![Timer](./imgs/coffee.png) |
 
 ### :wrench: Back End
 
