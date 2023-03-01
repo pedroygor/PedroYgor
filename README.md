@@ -1,9 +1,8 @@
 <center>
-<h1>
-Pedro Ygor <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px />
-</h1>
 
-<p>Desenvolvedor Web Full Stack</p>
+# Pedro Ygor <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px />
+
+"Desenvolvedor Web Full Stack"
 </center>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="15" /> Sobre mim
