@@ -31,4 +31,4 @@ Durante meu curso de graduação, participei de projetos de pesquisa e desenvolv
 
 - ***Email:*** pedroygorlo888@gmail.com
 - ***LinkedIn:*** [https://www.linkedin.com/in/pedro-ygor/](https://www.linkedin.com/in/pedro-ygor/)
-- ***Portfólio*** [https://pedroygor-portfolio.netlify.app/](https://pedroygor-portfolio.netlify.app/)
+- ***Portfólio***: [https://pedroygor-portfolio.netlify.app/](https://pedroygor-portfolio.netlify.app/)
