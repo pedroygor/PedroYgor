@@ -8,8 +8,8 @@ Durante meu curso de graduação, participei de projetos de pesquisa e desenvolv
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15" /> Habilidades
 
-***Front-end:*** Tenho habilidades em React.js, Typescript, Hooks, Context API, Redux, Tailwind, Styled Components, React Hook Form, React Router Dom...
-***Back-end:*** Além de front-end, também sou experiente em desenvolvimento back-end usando Node.js, Express, MongoDB e TypeScript.
+***Front-end:*** Tenho habilidades em React.js, Typescript, Hooks, Context API, Redux, Tailwind, Styled Components, React Hook Form, React Router Dom... <br/>
+***Back-end:*** Além de front-end, também sou experiente em desenvolvimento back-end usando Node.js, Express, MongoDB e TypeScript. <br/>
 ***Trabalho em equipe:*** Durante minha experiência acadêmica e no curso de Desenvolvimento Web Full Stack na Trybe, aprendi a trabalhar de forma eficiente em equipe usando metodologias ágeis.
 
 ## :file_folder: Projetos
