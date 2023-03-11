@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="15" /> Sobre mim
 
-Olá, eu sou o Pedro Ygor, um desenvolvedor Web Full Stack com experiência em projetos de pesquisa e desenvolvimento. Em 2022, embarquei no curso de Desenvolvimento Web Full Stack na Trybe, onde aprimorei minhas habilidades em React.js, metodologias ágeis, codificação de front-end, banco de dados e trabalho em equipe. Além disso, também adquiri experiência em back-end usando Node.js, Express, MongoDB e TypeScript. Com todas essas experiências, estou preparado para contribuir em projetos de desenvolvimento de software.
+Sou um desenvolvedor Full Stack apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando o curso de Desenvolvimento Web Full Stack na Trybe, onde adquiri habilidades em React.js, Node.js, Express, MongoDB e TypeScript, além de aprender sobre metodologias ágeis e trabalho em equipe. Com minha dedicação e experiência, estou preparado para enfrentar os desafios de projetos de desenvolvimento de software e contribuir para o sucesso da equipe.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15" /> Habilidades
 
