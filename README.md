@@ -4,6 +4,12 @@
 
 Sou um desenvolvedor Full Stack apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando o curso de Desenvolvimento Web Full Stack na Trybe, onde adquiri habilidades em React.js, Node.js, Express, MongoDB e TypeScript, além de aprender sobre metodologias ágeis e trabalho em equipe. Com minha dedicação e experiência, estou preparado para enfrentar os desafios de projetos de desenvolvimento de software e contribuir para o sucesso da equipe.
 
+## :link: Contato
+
+- ***Email:*** pedroygorlo888@gmail.com
+- ***LinkedIn:*** [https://www.linkedin.com/in/pedro-ygor/](https://www.linkedin.com/in/pedro-ygor/)
+- ***Portfólio***: [https://pedroygor-portfolio.netlify.app/](https://pedroygor-portfolio.netlify.app/)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15" /> Habilidades
 
 | :computer: Front-end | :wrench: Back-end |
@@ -36,9 +42,3 @@ Sou um desenvolvedor Full Stack apaixonado por resolver problemas e criar soluç
 | Soccer Manager                                                  |                        Blogs API                         | Car Shop                                             | CRUD de Clientes                                               |
 | --------------------------------------------------------------- | :------------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
 | [Repositório](https://github.com/pedroygor/trybe-futebol-clube) | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/car-shop) | [Repositório](https://github.com/pedroygor/backend-sharenergy) |
-
-## :link: Contato
-
-- ***Email:*** pedroygorlo888@gmail.com
-- ***LinkedIn:*** [https://www.linkedin.com/in/pedro-ygor/](https://www.linkedin.com/in/pedro-ygor/)
-- ***Portfólio***: [https://pedroygor-portfolio.netlify.app/](https://pedroygor-portfolio.netlify.app/)
