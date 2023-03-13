@@ -1,4 +1,4 @@
-<h1 align="center"> Pedro Ygor - Desenvolvedor Web Full Stack <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px /> </h1>
+<h1 align="center"> Pedro Ygor - Desenvolvedor FullStack <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px /> </h1>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="15" /> Sobre mim
 
