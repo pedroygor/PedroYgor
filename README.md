@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="15" /> Sobre mim
 
-Sou um desenvolvedor Full Stack apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando o curso de Desenvolvimento Web Full Stack na Trybe, onde adquiri habilidades em React.js, Node.js, Express, MongoDB e TypeScript, além de aprender sobre metodologias ágeis e trabalho em equipe. Com minha dedicação e experiência, estou preparado para enfrentar os desafios de projetos de desenvolvimento de software e contribuir para o sucesso da equipe.
+Sou um desenvolvedor FullStack apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando o curso de Desenvolvimento Web Full Stack na Trybe, onde adquiri habilidades em React.js, Node.js, Express, MongoDB e TypeScript, além de aprender sobre metodologias ágeis e trabalho em equipe. Com minha dedicação e experiência, estou preparado para enfrentar os desafios de projetos de desenvolvimento de software e contribuir para o sucesso da equipe.
 
 ## :link: Contato
 
