@@ -64,3 +64,5 @@ Sou um desenvolvedor FullStack apaixonado por resolver problemas e criar soluç�
 | --------------------------------------------------------------- | :------------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
 | [Repositório](https://github.com/pedroygor/trybe-futebol-clube) | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/car-shop) | [Repositório](https://github.com/pedroygor/backend-sharenergy) |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroygor&layout=compact&count_private=true&locale=pt-br)](https://github.com/pedroygor/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroygor&hide=contribs&count_private=true&show_icons=true&locale=pt-br)
