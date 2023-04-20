@@ -64,3 +64,6 @@ Sou um desenvolvedor FullStack apaixonado por resolver problemas e criar soluç�
 | --------------------------------------------------------------- | :------------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
 | [Repositório](https://github.com/pedroygor/trybe-futebol-clube) | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/car-shop) | [Repositório](https://github.com/pedroygor/backend-sharenergy) |
 
+__🎧 Músicas para animar o meu dia a dia:__
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22kz7p3u2uamfdbdtn7dgvbma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
