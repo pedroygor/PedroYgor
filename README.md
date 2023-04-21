@@ -12,7 +12,6 @@ Sou um desenvolvedor FullStack apaixonado por resolver problemas e criar soluç�
 
 ## 🎓 Formação Acadêmica
 
-- Trybe: Desenvolvimento Web Full Stack, abr 2022 - mai 2023 🚀
 - UniCesumar: CST em Análise e Desenvolvimento de Sistemas, jun 2021 - dez 2023 💻
 - Universidade Federal do Ceará: Bacharelado em Ciência da Computação, mar 2015 - dez 2018 🎓
 - Universidade Estadual do Ceará: Licenciatura em Matemática, fev 2014 - jan 2015 📈
