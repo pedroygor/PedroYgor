@@ -62,18 +62,18 @@ __Ferramentas e Tecnologias:__
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
-  </br>
+</br>
 
-### :file_folder: Projetos
+## :file_folder: Projetos
 
-#### :computer: Front End
+### :computer: Front End
 
 | Todo List                                                                                                             | Wallet                                                                                                         | Trivia                                                                                                     | Coffee Delivery                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [Repositório](https://github.com/pedroygor/desafio-01-ignite-todo-list) - [Demo](https://pedroygor-todo.netlify.app/) | [Repositório](https://github.com/pedroygor/trybe-wallet) - [Demo](https://pedroygor-trybe-wallet.netlify.app/) | [Repositório](https://github.com/pedroygor/trivia-project) - [Demo](https://pedroygor-trivia.netlify.app/) | [Repositório](https://github.com/pedroygor/coffee-delivery) - [Demo](https://pedroygor-coffee-delivery.netlify.app/) |
 | ![Todo](./imgs/todo.png)                                                                                              | ![Wallet](./imgs/wallet.png)                                                                                   | ![Trivia](./imgs/trivia.png)                                                                               | ![Timer](./imgs/coffee.png)                                                                                          |
 
-#### :wrench: Back End
+### :wrench: Back End
 
 | Soccer Manager                                                  |                        Blogs API                         | Car Shop                                             | CRUD de Clientes                                               |
 | --------------------------------------------------------------- | :------------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
