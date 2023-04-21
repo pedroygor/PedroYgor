@@ -62,8 +62,6 @@ Sou um desenvolvedor FullStack apaixonado por resolver problemas e criar solu√ß√
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 </p>
 
-</br>
-
 ## :file_folder: Projetos
 
 ### :computer: Front End
