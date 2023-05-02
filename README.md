@@ -1,10 +1,6 @@
 
 <h1 align="center"> Pedro Ygor - Desenvolvedor FullStack <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px /> </h1>
 
-<p align="center">
-<img src="./imgs/profile.png" width="150"/>
-</p>
-
  __:link: Contato:__
 
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pedroygor-portfolio.netlify.app/)
