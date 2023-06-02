@@ -13,12 +13,6 @@ ___
 
 Sou um desenvolvedor FullStack apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando o curso de Desenvolvimento Web Full Stack na Trybe, onde adquiri habilidades em React.js, Node.js, Express, MongoDB e TypeScript, além de aprender sobre metodologias ágeis e trabalho em equipe. Com minha dedicação e experiência, estou preparado para enfrentar os desafios de projetos de desenvolvimento de software e contribuir para o sucesso da equipe.
 
-## 🎓 Formação Acadêmica
-
-- UniCesumar: CST em Análise e Desenvolvimento de Sistemas, jun 2021 - dez 2023 💻
-- Universidade Federal do Ceará: Bacharelado em Ciência da Computação, mar 2015 - dez 2018 🎓
-- Universidade Estadual do Ceará: Licenciatura em Matemática, fev 2014 - jan 2015 📈
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15" /> Skills
 
 <p align="center">
