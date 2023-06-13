@@ -1,6 +1,9 @@
 <h4 align="center">🚀 Desenvolvedor FullStack 🚀</h4>
+
 </br>
+
 👋 Olá! Sou o Pedro Ygor, um desenvolvedor com paixão por tecnologia e jogos. Comecei minha jornada como músico na infância, mas minha paixão por jogos me levou a estudar desenvolvimento de software.
+</br>
 
 ⚡️ **Habilidades Técnicas:**
 
@@ -19,6 +22,8 @@
 
 - Curso de Desenvolvimento Web Full Stack na Trybe
 - Análise e Desenvolvimento de Sistemas - Unicesumar
+
+</br>
 
 :file_folder: **Projetos**
 > :computer: **Front End**
