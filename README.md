@@ -2,7 +2,7 @@
 
 </br>
 
-👋 Olá! Sou o Pedro Ygor, um desenvolvedor com paixão por tecnologia e jogos. Comecei minha jornada como músico na infância, mas minha paixão por jogos me levou a estudar desenvolvimento de software.
+👋 Olá! Sou o Pedro Ygor, Desenvolvedor em constante busca por conhecimento e crescimento. Minha jornada começou como bolsista PIBID, onde descobri o poder da comunicação e da educação. Com experiência como instrutor de música e bolsista de iniciação acadêmica, despertei o interesse dos jovens para novas possibilidades de carreira. Como monitor de currículo back-end na Trybe, aprimorei minhas habilidades técnicas e colaborei em projetos desafiadores. Apaixonado por desenvolvimento de software e sempre pronto para enfrentar novos desafios. 💻🚀
 </br>
 
 ⚡️ **Habilidades Técnicas:**
