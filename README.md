@@ -1,22 +1,42 @@
-<h4 align="center">🚀 Desenvolvedor FullStack 🚀</h4>
+<h1 align="center">Pedro Ygor</h1>
+<h4 align="center">☕ Desenvolvedor Java | Adobe Experience Manager (AEM) ☕</h4>
+<p align="center">
+  <a href="https://pedroygor-portfolio.netlify.app/">Portfólio</a> •
+  <a href="https://www.linkedin.com/in/pedro-ygor/">LinkedIn</a> •
+  <a href="mailto:pedroygorlo888@gmail.com">E-mail</a>
+</p>
 
+
+---
+ 
+👋 Olá! Sou o **Pedro Ygor**, desenvolvedor focado em **Java** e **Adobe Experience Manager (AEM)**.
+ 
+Minha trajetória é um pouco fora da curva e é justamente o que me diferencia: comecei na **infraestrutura de TI** — gerenciando redes, servidores e operações em grandes obras de construção pelo interior do Brasil — e fui migrando para o **desenvolvimento de software**. Essa bagagem me dá uma visão de ponta a ponta, do servidor à aplicação. 🖧 → 💻
+ 
+Antes da TI, passei pela educação como bolsista PIBID e instrutor de música, onde aprendi na prática o valor da comunicação e do ensino. Hoje atuo como desenvolvedor **PJ**, estudando todos os dias e construindo coisas novas. Sempre pronto pra encarar o próximo desafio. 🚀
+ 
 </br>
 
-👋 Olá! Sou o Pedro Ygor, Desenvolvedor em constante busca por conhecimento e crescimento. Minha jornada começou como bolsista PIBID, onde descobri o poder da comunicação e da educação. Com experiência como instrutor de música e bolsista de iniciação acadêmica, despertei o interesse dos jovens para novas possibilidades de carreira. Como monitor de currículo back-end na Trybe, aprimorei minhas habilidades técnicas e colaborei em projetos desafiadores. Apaixonado por desenvolvimento de software e sempre pronto para enfrentar novos desafios. 💻🚀
-</br>
+## ⚡️ Habilidades Técnicas
+ 
+**Linguagens**
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+**Back-end & Frameworks**
+ 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-⚡️ **Habilidades Técnicas:**
-
-- Linguagens: HTML5, CSS3, JavaScript, TypeScript, Java, Python
-- Frameworks: React.js, Node.js, Express.js, NestJS
-- Bancos de Dados: MongoDB, MySQL, PostgreSQL
-- Ferramentas: Git, GitHub, Visual Studio Code, Insomnia, Linux, Windows
-
-📫 **Vamos conectar?**
-
-- [Portfolio](https://pedroygor-portfolio.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/pedro-ygor/)
-- [Email](mailto:pedroygorlo888@gmail.com)
 
 📚 **Formação:**
 
