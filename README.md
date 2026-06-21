@@ -9,11 +9,11 @@
 
 ---
  
-👋 Olá! Sou o **Pedro Ygor**, desenvolvedor focado em **Java** e **Adobe Experience Manager (AEM)**.
- 
-Minha trajetória é um pouco fora da curva e é justamente o que me diferencia: comecei na **infraestrutura de TI** — gerenciando redes, servidores e operações em grandes obras de construção pelo interior do Brasil — e fui migrando para o **desenvolvimento de software**. Essa bagagem me dá uma visão de ponta a ponta, do servidor à aplicação. 🖧 → 💻
- 
-Antes da TI, passei pela educação como bolsista PIBID e instrutor de música, onde aprendi na prática o valor da comunicação e do ensino. Hoje atuo como desenvolvedor **PJ**, estudando todos os dias e construindo coisas novas. Sempre pronto pra encarar o próximo desafio. 🚀
+👋 Olá! Sou o Pedro Ygor, desenvolvedor focado em Java e Adobe Experience Manager (AEM).
+
+Minha carreira foi construída explorando diferentes caminhos até encontrar no desenvolvimento de software a área em que mais me identifico. Ao longo dessa jornada, tive a oportunidade de atuar em diferentes contextos, experiências que contribuíram para desenvolver minha forma de analisar problemas e construir soluções.
+
+Hoje atuo no desenvolvimento de software, principalmente com Java, AEM e tecnologias web. Utilizo este espaço para compartilhar projetos, estudos e ferramentas que desenvolvo durante minha jornada profissional.
  
 </br>
 
