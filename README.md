@@ -8,45 +8,56 @@
 
 ---
 
-Trabalho com desenvolvimento de software, principalmente com Java e AEM. No front-end, uso React e Next.js. Este espaço é onde compartilho projetos e estudos.
+Sou desenvolvedor Java júnior e trabalho com **Adobe Experience Manager (AEM)**: componentes, Sling Models, HTL e serviços OSGi. Antes do desenvolvimento, atuei com infraestrutura de TI e redes, o que me dá uma visão de ponta a ponta, do servidor à interface. No front-end, uso React e Next.js.
 
-## Habilidades
+## 🔭 Atualmente
 
-**Back-end**
+- 💼 Desenvolvedor Java Júnior na **Vasconcelos Solutions**, com Java + AEM
+- 📚 Estudando: AEM as a Cloud Service, Spring Boot e testes automatizados
+<!-- Ajuste os itens de estudo conforme o momento -->
+
+## 🛠️ Stack principal
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AEM](https://img.shields.io/badge/Adobe_Experience_Manager-EB1000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![AEM](https://img.shields.io/badge/Adobe_Experience_Manager-EB1000?style=for-the-badge&logo=adobe&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=black)
-
-**Front-end**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Formação
+**Também trabalho com:** Node.js · NestJS · Express · JavaScript · HTML · CSS
+
+## 🎓 Formação
 
 - Análise e Desenvolvimento de Sistemas — Unicesumar
 - Desenvolvimento Web Full Stack — Trybe
 
-## Projetos
+## 🚀 Projetos
 
-### Front-end
+<!--
+### Java / AEM
+Quando o projeto AEM estiver pronto, descomente e preencha:
 
-| Todo List                                                                                                             | Wallet                                                                                                         | Trivia                                                                                                     | Coffee Delivery                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Repositório](https://github.com/pedroygor/desafio-01-ignite-todo-list) - [Demo](https://pedroygor-todo.netlify.app/) | [Repositório](https://github.com/pedroygor/trybe-wallet) - [Demo](https://pedroygor-trybe-wallet.netlify.app/) | [Repositório](https://github.com/pedroygor/trivia-project) - [Demo](https://pedroygor-trivia.netlify.app/) | [Repositório](https://github.com/pedroygor/coffee-delivery) - [Demo](https://pedroygor-coffee-delivery.netlify.app/) |
-| ![Todo](./imgs/todo.png)                                                                                              | ![Wallet](./imgs/wallet.png)                                                                                   | ![Trivia](./imgs/trivia.png)                                                                               | ![Coffee Delivery](./imgs/coffee.png)                                                                                |
+| Projeto | Descrição | Stack |
+| ------- | --------- | ----- |
+| [Nome do projeto](https://github.com/pedroygor/REPO) | Componentes AEM com Sling Models e serviço OSGi | Java · AEM · HTL · OSGi |
+-->
 
 ### Back-end
 
-| Soccer Manager                                                  |                        Blogs API                         | Car Shop                                             | CRUD de Clientes                                               |
-| --------------------------------------------------------------- | :------------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
-| [Repositório](https://github.com/pedroygor/trybe-futebol-clube) | [Repositório](https://github.com/pedroygor/api-de-blogs) | [Repositório](https://github.com/pedroygor/car-shop) | [Repositório](https://github.com/pedroygor/backend-sharenergy) |
+| Projeto | Descrição | Stack |
+| ------- | --------- | ----- |
+| [Soccer Manager](https://github.com/pedroygor/trybe-futebol-clube) | API de classificação e partidas de futebol, com autenticação | TypeScript · Express · Sequelize · Docker |
+| [Blogs API](https://github.com/pedroygor/api-de-blogs) | API REST de posts com usuários, categorias e login via JWT | Node.js · Express · Sequelize · JWT |
+| [Car Shop](https://github.com/pedroygor/car-shop) | API de concessionária com arquitetura em camadas e POO | TypeScript · MongoDB · Mongoose |
+| [CRUD de Clientes](https://github.com/pedroygor/backend-sharenergy) | CRUD de cadastro de clientes | Node.js |
+
+### Front-end
+
+| [Todo List](https://pedroygor-todo.netlify.app/) | [Wallet](https://pedroygor-trybe-wallet.netlify.app/) | [Trivia](https://pedroygor-trivia.netlify.app/) | [Coffee Delivery](https://pedroygor-coffee-delivery.netlify.app/) |
+| :---: | :---: | :---: | :---: |
+| ![Todo](./imgs/todo.png) | ![Wallet](./imgs/wallet.png) | ![Trivia](./imgs/trivia.png) | ![Coffee Delivery](./imgs/coffee.png) |
+| Lista de tarefas | Carteira com conversão de moedas | Jogo de perguntas e respostas | Loja de cafés com carrinho |
+| React · TypeScript | React · Redux | React · Redux | React · TypeScript |
+| [Código](https://github.com/pedroygor/desafio-01-ignite-todo-list) | [Código](https://github.com/pedroygor/trybe-wallet) | [Código](https://github.com/pedroygor/trivia-project) | [Código](https://github.com/pedroygor/coffee-delivery) |
