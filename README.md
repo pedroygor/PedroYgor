@@ -1,63 +1,108 @@
-<h1 align="center">Pedro Ygor</h1>
-<p align="center">Desenvolvedor Java | Adobe Experience Manager (AEM)</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./imgs/header-dark.svg">
+  <img alt="Pedro Ygor, Desenvolvedor Java e AEM" src="./imgs/header-light.svg" width="100%">
+</picture>
+
 <p align="center">
-  <a href="https://pedroygor-portfolio.netlify.app/">Portfólio</a> •
-  <a href="https://www.linkedin.com/in/pedro-ygor/">LinkedIn</a> •
-  <a href="mailto:pedroygorlo888@gmail.com">E-mail</a>
+  <a href="https://pedroygor-portfolio.netlify.app/"><b>Portfólio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pedro-ygor/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:pedroygorlo888@gmail.com"><b>E-mail</b></a>
 </p>
 
----
+<br>
 
-Sou desenvolvedor Java júnior e trabalho com **Adobe Experience Manager (AEM)**: componentes, Sling Models, HTL e serviços OSGi. Antes do desenvolvimento, atuei com infraestrutura de TI e redes, o que me dá uma visão de ponta a ponta, do servidor à interface. No front-end, uso React e Next.js.
+Sou desenvolvedor Java e trabalho com **Adobe Experience Manager**, construindo componentes, Sling Models e serviços OSGi. Antes do desenvolvimento, atuei com infraestrutura de TI e redes. Por isso, gosto de entender o sistema inteiro, do servidor à interface.
 
-## 🔭 Atualmente
+> **Agora:** Desenvolvedor Java Júnior na **Vasconcelos Solutions**, trabalhando com AEM.<br>
+> **Estudando:** AEM as a Cloud Service, Spring Boot e testes automatizados.
 
-- 💼 Desenvolvedor Java Júnior na **Vasconcelos Solutions**, com Java + AEM
-- 📚 Estudando: AEM as a Cloud Service, Spring Boot e testes automatizados
-<!-- Ajuste os itens de estudo conforme o momento -->
+<br>
 
-## 🛠️ Stack principal
+## Formação
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AEM](https://img.shields.io/badge/Adobe_Experience_Manager-EB1000?style=for-the-badge&logo=adobe&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**Análise e Desenvolvimento de Sistemas** · Unicesumar<br>
+**Desenvolvimento Web Full Stack** · Trybe
 
-**Também trabalho com:** Node.js · NestJS · Express · JavaScript · HTML · CSS
+## Tecnologias
 
-## 🎓 Formação
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./imgs/stack-dark.svg">
+  <img alt="Java, Adobe AEM, Spring Boot, JPA/Hibernate, Maven, Node.js, NestJS, Express, TypeScript, React, Next.js, MySQL, MongoDB, Docker e Git" src="./imgs/stack-light.svg" width="100%">
+</picture>
 
-- Análise e Desenvolvimento de Sistemas — Unicesumar
-- Desenvolvimento Web Full Stack — Trybe
+<br><br>
 
-## 🚀 Projetos
+## Projetos
 
 <!--
-### Java / AEM
-Quando o projeto AEM estiver pronto, descomente e preencha:
-
-| Projeto | Descrição | Stack |
-| ------- | --------- | ----- |
-| [Nome do projeto](https://github.com/pedroygor/REPO) | Componentes AEM com Sling Models e serviço OSGi | Java · AEM · HTL · OSGi |
+Quando o projeto AEM estiver pronto, gere um card para ele no mesmo padrão e coloque-o aqui, antes dos demais.
 -->
 
 ### Back-end
 
-| Projeto | Descrição | Stack |
-| ------- | --------- | ----- |
-| [Soccer Manager](https://github.com/pedroygor/trybe-futebol-clube) | API de classificação e partidas de futebol, com autenticação | TypeScript · Express · Sequelize · Docker |
-| [Blogs API](https://github.com/pedroygor/api-de-blogs) | API REST de posts com usuários, categorias e login via JWT | Node.js · Express · Sequelize · JWT |
-| [Car Shop](https://github.com/pedroygor/car-shop) | API de concessionária com arquitetura em camadas e POO | TypeScript · MongoDB · Mongoose |
-| [CRUD de Clientes](https://github.com/pedroygor/backend-sharenergy) | CRUD de cadastro de clientes | Node.js |
+<p>
+  <a href="https://github.com/pedroygor/trybe-futebol-clube">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./imgs/proj-soccer-dark.svg">
+      <img alt="Soccer Manager" src="./imgs/proj-soccer-light.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/pedroygor/api-de-blogs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./imgs/proj-blogs-dark.svg">
+      <img alt="Blogs API" src="./imgs/proj-blogs-light.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/pedroygor/car-shop">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./imgs/proj-carshop-dark.svg">
+      <img alt="Car Shop" src="./imgs/proj-carshop-light.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/pedroygor/backend-sharenergy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./imgs/proj-clientes-dark.svg">
+      <img alt="CRUD de Clientes" src="./imgs/proj-clientes-light.svg" width="49%">
+    </picture>
+  </a>
+</p>
 
 ### Front-end
 
-| [Todo List](https://pedroygor-todo.netlify.app/) | [Wallet](https://pedroygor-trybe-wallet.netlify.app/) | [Trivia](https://pedroygor-trivia.netlify.app/) | [Coffee Delivery](https://pedroygor-coffee-delivery.netlify.app/) |
-| :---: | :---: | :---: | :---: |
-| ![Todo](./imgs/todo.png) | ![Wallet](./imgs/wallet.png) | ![Trivia](./imgs/trivia.png) | ![Coffee Delivery](./imgs/coffee.png) |
-| Lista de tarefas | Carteira com conversão de moedas | Jogo de perguntas e respostas | Loja de cafés com carrinho |
-| React · TypeScript | React · Redux | React · Redux | React · TypeScript |
-| [Código](https://github.com/pedroygor/desafio-01-ignite-todo-list) | [Código](https://github.com/pedroygor/trybe-wallet) | [Código](https://github.com/pedroygor/trivia-project) | [Código](https://github.com/pedroygor/coffee-delivery) |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://pedroygor-coffee-delivery.netlify.app/"><img src="./imgs/coffee.png" alt="Coffee Delivery"></a><br>
+      <b>Coffee Delivery</b><br>
+      <sub>Loja de cafés com carrinho</sub><br>
+      <sub>React · TypeScript</sub><br>
+      <a href="https://pedroygor-coffee-delivery.netlify.app/">Demo</a> · <a href="https://github.com/pedroygor/coffee-delivery">Código</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pedroygor-trybe-wallet.netlify.app/"><img src="./imgs/wallet.png" alt="Wallet"></a><br>
+      <b>Wallet</b><br>
+      <sub>Controle de gastos com conversão de moedas</sub><br>
+      <sub>React · Redux</sub><br>
+      <a href="https://pedroygor-trybe-wallet.netlify.app/">Demo</a> · <a href="https://github.com/pedroygor/trybe-wallet">Código</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pedroygor-trivia.netlify.app/"><img src="./imgs/trivia.png" alt="Trivia"></a><br>
+      <b>Trivia</b><br>
+      <sub>Jogo de perguntas e respostas</sub><br>
+      <sub>React · Redux</sub><br>
+      <a href="https://pedroygor-trivia.netlify.app/">Demo</a> · <a href="https://github.com/pedroygor/trivia-project">Código</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pedroygor-todo.netlify.app/"><img src="./imgs/todo.png" alt="Todo List"></a><br>
+      <b>Todo List</b><br>
+      <sub>Lista de tarefas</sub><br>
+      <sub>React · TypeScript</sub><br>
+      <a href="https://pedroygor-todo.netlify.app/">Demo</a> · <a href="https://github.com/pedroygor/desafio-01-ignite-todo-list">Código</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+

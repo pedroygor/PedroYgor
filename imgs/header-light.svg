@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#e5532d" stop-opacity="0.22"/><stop offset="1" stop-color="#e5532d" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1f2328" stroke-opacity="0.07" stroke-width="1"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="m"><rect width="1200" height="320" fill="url(#fade)"/></mask>
+</defs>
+<rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="16" fill="url(#grid)" mask="url(#m)"/>
+<rect width="1200" height="320" rx="16" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#d1d9e0"/>
+<g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+<rect x="72" y="78" width="6" height="40" rx="3" fill="#e5532d"/>
+<text x="96" y="112" font-size="20" letter-spacing="4" fill="#59636e" font-weight="600">DESENVOLVEDOR JAVA · AEM</text>
+<text x="70" y="188" font-size="68" font-weight="700" fill="#1f2328" letter-spacing="-1">Pedro Ygor</text>
+<text x="72" y="236" font-size="22" fill="#59636e">Componentes, Sling Models e serviços OSGi no Adobe Experience Manager.</text>
+</g>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#59636e" opacity="0.9">
+<text x="796" y="72"><tspan fill="#e5532d">@Model</tspan>(adaptables = Resource.class)</text>
+<text x="796" y="98">public class <tspan fill="#1f2328">PedroYgor</tspan> { }</text>
+</g>
+</svg>
